@@ -83,5 +83,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Stop wasting hours hunting for deals"
+	subtitle="Start shopping smarter today"
+	description="Join thousands of shoppers who've ditched endless tabs and comparison spreadsheets. Find the best prices instantly, complete purchases securely through Stripe, and get back to what matters. Your time is worth more than this."
+	imageSrc="/generated/image-a-cheerful-young-professional-relaxing-o.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Start shopping free",
+			variant: "primary"
+		},
+		{
+			href: "/how-it-works",
+			label: "See how it works",
+			variant: "secondary"
+		}
+	]}
+/>

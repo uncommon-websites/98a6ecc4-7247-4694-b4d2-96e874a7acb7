@@ -2,5 +2,9 @@
   {
     "prompt": "A cheerful person sitting at a cozy table, surrounded by colorful shopping bags, smiling as they browse on a laptop. The scene is set in a warm, inviting room with soft natural light, casual clothing, and relaxed body language. The background includes subtle homey details like potted plants and a cup of coffee, creating a comfortable, lived-in atmosphere.",
     "filename": "/generated/image-a-cheerful-person-sitting-at-a-cozy-tabl.webp"
+  },
+  {
+    "prompt": "A professional founder posing for a headshot in a contemporary workspace filled with natural light, surrounded by subtle modern furniture and plants, wearing business-casual attire. The atmosphere is welcoming and sophisticated, with soft daylight streaming through large windows. Vary the individual's gender, ethnicity, hairstyle, and pose for each image while maintaining a consistent modern, professional ambiance.",
+    "filename": "/generated/image-a-professional-founder-posing-for-a-head.webp"
   }
 ]
