@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Shop the entire internet in one place"
+	subtitle="No more endless tabs, lost products, or checkout friction. Find anything, compare everything, and purchase instantly from a unified shopping browser."
+	imageSrc="/generated/image-a-cheerful-person-sitting-at-a-cozy-tabl.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by savvy shoppers"
+	logoUrls={[
+		'https://cdn.brandfetch.io/etsy.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/wayfair.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/bestbuy.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/target.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
